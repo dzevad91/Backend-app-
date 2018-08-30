@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLottery", "WebLottery\WebLottery.csproj", "{FEE7BFAB-DA59-4179-A7AC-A5475C7A434F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLottery.Tests", "WebLottery.Tests\WebLottery.Tests.csproj", "{EC7D50EE-4A96-4456-BFC5-B1E163E0311C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE7BFAB-DA59-4179-A7AC-A5475C7A434F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE7BFAB-DA59-4179-A7AC-A5475C7A434F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE7BFAB-DA59-4179-A7AC-A5475C7A434F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE7BFAB-DA59-4179-A7AC-A5475C7A434F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC7D50EE-4A96-4456-BFC5-B1E163E0311C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7D50EE-4A96-4456-BFC5-B1E163E0311C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7D50EE-4A96-4456-BFC5-B1E163E0311C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7D50EE-4A96-4456-BFC5-B1E163E0311C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7D06035-61EB-4FC0-92DC-E0BD48FD6462}
+	EndGlobalSection
+EndGlobal

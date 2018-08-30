@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WebLottery/packages
+/WebLottery/.vs
+/WebLottery/WebLottery/bin
+/WebLottery/WebLottery/obj/Debug
+/WebLottery/WebLottery.Tests/bin/Debug
+/WebLottery/WebLottery.Tests/obj/Debug
