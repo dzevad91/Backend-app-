@@ -63,9 +63,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WebLottery\WebLottery.csproj">
+    <ProjectReference Include="..\WebLottery\Lottery.Web.csproj">
       <Project>{FEE7BFAB-DA59-4179-A7AC-A5475C7A434F}</Project>
-      <Name>WebLottery</Name>
+      <Name>Lottery.Web</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
