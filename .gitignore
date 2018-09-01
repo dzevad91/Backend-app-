@@ -3,9 +3,19 @@
 ################################################################################
 
 /.vs
-/WebLottery/packages
-/WebLottery/.vs
-/WebLottery/WebLottery/bin
-/WebLottery/WebLottery/obj/Debug
-/WebLottery/WebLottery.Tests/bin/Debug
-/WebLottery/WebLottery.Tests/obj/Debug
+/Lottery.Web/.vs
+/Lottery.Web/Lottery.Web/bin
+/Lottery.Web/Lottery.Web/obj/Debug
+/Lottery.Web/Lottery.Web.Tests/obj/Debug
+/Lottery.Web/packages
+/Lottery.Web/Lottery.Data/bin/Debug
+/Lottery.Web/Lottery.Data/obj/Debug
+/Lottery.Web/Lottery.Data.Model/bin/Debug
+/Lottery.Web/Lottery.Data.Model/obj/Debug
+/Lottery.Web/Lottery.Mapper/bin/Debug
+/Lottery.Web/Lottery.Mapper/obj/Debug
+/Lottery.Web/Lottery.Service/bin/Debug
+/Lottery.Web/Lottery.Service/obj/Debug
+/Lottery.Web/Lottery.View.Model/bin/Debug
+/Lottery.Web/Lottery.View.Model/obj/Debug
+/Lottery.Web/Lottery.Web.Tests/bin/Debug
