@@ -1,0 +1,14 @@
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\bin\Debug\Lottery.Data.dll.config
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\bin\Debug\Lottery.Data.dll
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\bin\Debug\Lottery.Data.pdb
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\bin\Debug\EntityFramework.dll
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\bin\Debug\Lottery.Data.Model.dll
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\bin\Debug\Lottery.Data.Model.pdb
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\bin\Debug\Lottery.Data.Model.dll.config
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\bin\Debug\EntityFramework.xml
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\obj\Debug\Lottery.Data.csprojResolveAssemblyReference.cache
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\obj\Debug\Lottery.Data.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\obj\Debug\Lottery.Data.dll
+C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.Data\obj\Debug\Lottery.Data.pdb

@@ -1,20 +1,20 @@
-﻿using Lottery.Data.Model;
-using System;
-using System.Collections.Generic;
+﻿using System.Data.Entity;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Data.Entity;
+using Lottery.Data.Model;
 
 namespace Lottery.Data
 {
-    public class Repository<T> : Irepository<T> where T : class, IEntity
+    public class Repository<T> : IRepository<T> where T : class, IEntity
     {
         protected DbSet<T> DbSet;
 
         public Repository(DbContext dbContext)
         {
             DbSet = dbContext.Set<T>();
+        }
+        public void Insert(T entity)
+        {
+            DbSet.Add(entity);
         }
 
         public void Delete(T entity)
@@ -31,12 +31,5 @@ namespace Lottery.Data
         {
             return DbSet.Find(id);
         }
-
-        public void Insert(T entity)
-        {
-            DbSet.Add(entity);
-        }
     }
-    
-  
 }

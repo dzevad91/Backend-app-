@@ -1,13 +1,9 @@
-﻿using Lottery.Data.Model;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Linq;
+using Lottery.Data.Model;
 
 namespace Lottery.Data
 {
-    public interface Irepository<T> where T : IEntity
+    public interface IRepository<T> where T : IEntity
     {
         void Insert(T entity);
         void Delete(T entity);
