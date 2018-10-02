@@ -1,6 +1,0 @@
-C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.View.Model\bin\Debug\Lottery.View.Model.dll
-C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.View.Model\bin\Debug\Lottery.View.Model.pdb
-C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.View.Model\obj\Debug\Lottery.View.Model.csprojResolveAssemblyReference.cache
-C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.View.Model\obj\Debug\Lottery.View.Model.csproj.CoreCompileInputs.cache
-C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.View.Model\obj\Debug\Lottery.View.Model.dll
-C:\Users\code\Desktop\SedcLottery-master\Lottery.Web\Lottery.View.Model\obj\Debug\Lottery.View.Model.pdb
